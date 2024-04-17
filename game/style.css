@@ -30,11 +30,11 @@ body{
 }
 
 #exit_btn{
-    padding-bottom: 180px;
+    margin: 275px;
     position: relative;
 }
 #menu_btn{
-    padding-top: 120px;
+    margin: 210px;
     position: relative;
 }
 
